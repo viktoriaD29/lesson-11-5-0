@@ -10,4 +10,5 @@
 .thumb {
   margin: 8px;
   flex-shrink: 0;
+  flex-wrap: wrap;
 }
