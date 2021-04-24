@@ -9,4 +9,5 @@
 
 .thumb {
   margin: 8px;
+  flex-grow: 0;
 }
